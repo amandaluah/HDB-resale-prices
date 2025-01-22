@@ -1,5 +1,5 @@
 ## 🏠  AGILE Data Sprint: HDB Resale Prices
-![Image](https://github.com/user-attachments/assets/cbddcf6f-d728-4054-ab2d-2e46ef7b7d63)
+![Image](https://github.com/user-attachments/assets/ff2e3577-7430-4311-985d-3fd965e132a6)
 >
 > **Purpose**: With my groupmates, we analysed the HDB resale market in Singapore, as a data analyst at a real estate agency in Singapore. The agency wants to empower their agents with a data-driven tool to offer competitive
 > pricing advice for clients looking to buy or sell HDB resale flats and accurately estimate HDB resale flat values for different flat types and locations. Throughout the project, we also made use of Trello (a Project Management tool)to track our progress as a team.
