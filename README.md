@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/ff2e3577-7430-4311-985d-3fd965e132a6)
 >
 > **Purpose**: With my groupmates, we analysed the HDB resale market in Singapore, as a data analyst at a real estate agency in Singapore. The agency wants to empower their agents with a data-driven tool to offer competitive
-> pricing advice for clients looking to buy or sell HDB resale flats and accurately estimate HDB resale flat values for different flat types and locations. Throughout the project, we also made use of Trello (a Project Management tool)to track our progress as a team.
+> pricing advice for clients looking to buy or sell HDB resale flats and accurately estimate HDB resale flat values for different flat types and locations. Throughout the project, we also made use of Trello (a Project Management tool) to track our progress as a team.
 >
 > Refer to [guideline](https://github.com/amandaluah/HDB-resale-prices/blob/6c539491fc827559fe478c28bf88ba68c859f81f/Data%20Sprint%20%F0%9F%93%8B%20Guidelines%20-%20HDB%20Resale%20Prices.pdf) for the full guideline of this project.
 >
