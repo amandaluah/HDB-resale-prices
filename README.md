@@ -8,7 +8,7 @@
 >
 > **Output**: Built a predictive model with linear regression to analyse the HDB resale market in Singapore and created various visualizations using Tableau and Python in Google Colab.
 >
-> **Tech Stack**: Python, Tableau, Trello
+> **Tech Stack**: Python, Tableau, Trello, Google Colab
 >
 > **Resources**: Historical HDB flat data (Train & Test) provided by General Assembly
 >
