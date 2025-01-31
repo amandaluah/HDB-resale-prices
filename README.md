@@ -6,7 +6,7 @@
 >
 > Refer to [guideline](https://github.com/amandaluah/HDB-resale-prices/blob/6c539491fc827559fe478c28bf88ba68c859f81f/Data%20Sprint%20%F0%9F%93%8B%20Guidelines%20-%20HDB%20Resale%20Prices.pdf) for the full guideline of this project.
 >
-> **Output**: Built a predictive model with linear regression to analyse the HDB resale market in Singapore and created various visualizations using Tableau and Python in a Jupyter notebook.
+> **Output**: Built a predictive model with linear regression to analyse the HDB resale market in Singapore and created various visualizations using Tableau and Python in Google Colab.
 >
 > **Tech Stack**: Python, Tableau, Trello
 >
