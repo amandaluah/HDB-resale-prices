@@ -16,7 +16,7 @@
 >
 > **Deliverables:** <br/>
 > [Presentation deck to stakeholders](https://github.com/amandaluah/HDB-resale-prices/blob/6c539491fc827559fe478c28bf88ba68c859f81f/HDB%20Resale%20Price%20Modeling_%20Presentation%20Deck.pptx.pdf) <br/>
-> [Code - Google Colab](https://github.com/amandaluah/HDB-resale-prices/blob/044dfad0d2ca01491e310476fbdb2573270cbfc5/Group_Project_HDB_Prices_Data_Sprint.ipynb) <br/>
+> [Codes - Google Colab](https://github.com/amandaluah/HDB-resale-prices/blob/044dfad0d2ca01491e310476fbdb2573270cbfc5/Group_Project_HDB_Prices_Data_Sprint.ipynb) <br/>
 >
 > **Visualization**:
 > ![Image](https://github.com/user-attachments/assets/54be959d-9b1b-42ab-b468-acb52627be0b)
